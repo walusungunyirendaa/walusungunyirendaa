@@ -1,103 +1,15 @@
-<div align="center">
+# 💫 About Me:
+My favorite part of building anything isn't just the code itself, it's the thinking that comes before and after it. <br>I'm drawn to the space where systems logic, system design, and problem-solving meet.<br><br>
 
-# 👋 Hi, I'm Walusungu Nyirenda
 
-<p>My favorite part of building anything isn't just the code itself, it's the thinking that comes before and after it. I'm drawn to the space where systems logic, system design, and problem-solving meet.</p>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/walusunguunyirenda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/walu_09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/walusungu-nyirenda/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/walusungunyirenda07) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Walusungu-Nyirenda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:walusungunyirendaa@gmail.com) 
 
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=walusungunyirendaa&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=walusungunyirendaa&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=walusungunyirendaa&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=06B6D4" alt="JavaScript" title="JavaScript" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=06B6D4" alt="Python" title="Python" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=06B6D4" alt="C++" title="C++" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=06B6D4" alt="TypeScript" title="TypeScript" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=06B6D4" alt="Next.js" title="Next.js" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=06B6D4" alt="PostgreSQL" title="PostgreSQL" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=06B6D4" alt="React" title="React" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=06B6D4" alt="Vercel" title="Vercel" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=06B6D4" alt="Jupyter" title="Jupyter" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=06B6D4" alt="FastAPI" title="FastAPI" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" title="Tailwind CSS" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=06B6D4" alt="Figma" title="Figma" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Illustrator-0D1117?style=for-the-badge&logo=illustrator&logoColor=06B6D4" alt="Illustrator" title="Illustrator" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=06B6D4" alt="Git" title="Git" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira&logoColor=06B6D4" alt="Jira" title="Jira" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=06B6D4" alt="Postman" title="Postman" style="margin: 4px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=06B6D4" alt="HTML5" title="HTML5" style="margin: 4px;" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/walusungu-nyirenda" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" title="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://instagram.com/walu_09" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/ffffff" />
-    <img src="https://cdn.simpleicons.org/instagram/000000" alt="Instagram" width="36" height="36" title="Instagram" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://codepen.io/Walusungu-Nyirenda" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" alt="CodePen" width="36" height="36" title="CodePen" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/jlDX2qyax6" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/leetcode/ffffff" />
-    <img src="https://cdn.simpleicons.org/leetcode/000000" alt="LeetCode" width="36" height="36" title="LeetCode" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://codewars.com/users/Walusungu" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/codewars/ffffff" />
-    <img src="https://cdn.simpleicons.org/codewars/000000" alt="Codewars" width="36" height="36" title="Codewars" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://behance.net/walusunguunyirenda" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/behance/ffffff" />
-    <img src="https://cdn.simpleicons.org/behance/000000" alt="Behance" width="36" height="36" title="Behance" />
-  </picture>
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Streak
-
-<div align="center">
-
-[![CommitPulse Contribution Graph for walusungunyirendaa](https://commitpulse.vercel.app/api/streak?user=walusungunyirendaa)](https://commitpulse.vercel.app/dashboard/walusungunyirendaa)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
